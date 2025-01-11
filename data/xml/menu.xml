@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item>
+    <nombre>Inicio</nombre>
+    <link>index.html</link>
+  </item>
+  <item>
+    <nombre>Eventos</nombre>
+    <link>#</link>
+    <subitem>
+      <nombre>Formulario De Creación</nombre>
+      <link>formulario.html</link>
+    </subitem>
+  </item>
+  <item>
+    <nombre>Calendario</nombre>
+    <link>#</link>
+    <subitem>
+      <nombre>Visualizar</nombre>
+      <link>visualizar.php</link>
+    </subitem>
+  </item>
+  <item>
+    <nombre>Recomendaciones</nombre>
+    <link>recomendaciones.html</link>
+  </item>
+  <item>
+    <nombre>Comunidad</nombre>
+    <link>comunidad.html</link>
+  </item>
+  <item>
+    <nombre>Extras</nombre>
+    <link>extras.html</link>
+  </item>
+  <item>
+    <nombre>FAQ</nombre>
+    <link>faq.html</link>
+  </item>
+  <item>
+    <nombre>Contactos</nombre>
+    <link>#</link>
+    <subitem>
+      <nombre>Formulario De Contacto</nombre>
+      <link>contactame.html</link>
+    </subitem>
+    <subitem>
+      <nombre>Preguntas Frecuentes</nombre>
+      <link>feedback.html</link>
+    </subitem>
+  </item>
+</menu>

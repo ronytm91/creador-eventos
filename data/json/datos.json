@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "titulo": "Reuni\u00f3n de equipo",
+        "fecha": "2025-01-13",
+        "hora": "10:00",
+        "categoria": "Reuni\u00f3n",
+        "descripcion": "Revisi\u00f3n de proyectos y documentaci\u00f3n"
+    },
+    {
+        "id": 2,
+        "titulo": "Recepci\u00f3n de inicio de a\u00f1o",
+        "fecha": "2025-01-18",
+        "hora": "20:00",
+        "categoria": "Fraternizaci\u00f3n",
+        "descripcion": "Reuni\u00f3n para conocer a los nuevos integrantes y fraternizaci\u00f3n con todo el personal"
+    },
+    {
+        "id": 3,
+        "titulo": "Conferencia anual",
+        "fecha": "2025-01-20",
+        "hora": "08:30",
+        "categoria": "Conferencia",
+        "descripcion": "Planificaci\u00f3n anual, metas a conseguir en el 2025"
+    },
+    {
+        "id": 4,
+        "titulo": "Taller de innovaci\u00f3n",
+        "fecha": "2025-02-01",
+        "hora": "09:00",
+        "categoria": "Taller",
+        "descripcion": "Sesi\u00f3n para explorar nuevas tecnolog\u00edas y su implementaci\u00f3n en el trabajo"
+    },
+    {
+        "id": 5,
+        "titulo": "Jornada de voluntariado",
+        "fecha": "2025-02-10",
+        "hora": "08:00",
+        "categoria": "Voluntariado",
+        "descripcion": "Actividades de voluntariado comunitario organizadas por la empresa"
+    },
+    {
+        "id": 6,
+        "titulo": "Sesi\u00f3n de entrenamiento",
+        "fecha": "2025-02-15",
+        "hora": "11:00",
+        "categoria": "Entrenamiento",
+        "descripcion": "Capacitaci\u00f3n sobre nuevas herramientas y procesos laborales"
+    },
+    {
+        "id": 7,
+        "titulo": "Reuni\u00f3n de estrategia",
+        "fecha": "2025-02-22",
+        "hora": "14:00",
+        "categoria": "Reuni\u00f3n",
+        "descripcion": "Revisi\u00f3n de estrategias a seguir para el primer trimestre"
+    },
+    {
+        "id": 8,
+        "titulo": "Fiesta de aniversario",
+        "fecha": "2025-03-05",
+        "hora": "18:00",
+        "categoria": "Fraternizaci\u00f3n",
+        "descripcion": "Celebraci\u00f3n del aniversario de la empresa con un evento social"
+    },
+    {
+        "id": 9,
+        "titulo": "Revisi\u00f3n de presupuesto",
+        "fecha": "2025-03-12",
+        "hora": "16:00",
+        "categoria": "Reuni\u00f3n",
+        "descripcion": "An\u00e1lisis y aprobaci\u00f3n del presupuesto para el segundo trimestre"
+    },
+    {
+        "id": 10,
+        "titulo": "Congreso de tecnolog\u00eda",
+        "fecha": "2025-03-18",
+        "hora": "09:00",
+        "categoria": "Conferencia",
+        "descripcion": "Congreso sobre las \u00faltimas tendencias en tecnolog\u00eda y su impacto en la industria en Bolivia"
+    }
+]
